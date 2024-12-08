@@ -7,6 +7,7 @@ The application markup is located in the file src\app\root.jsx .
 The application displays student cards. Each card provides the ability to edit and delete data.
 
 The application uses two slices: 
+	
 	* "specialties" slice (src\app\parts\speciality\specialitySlice.js); 
  
  	* "students" slice (src\app\parts\students\studentSlice.js).
